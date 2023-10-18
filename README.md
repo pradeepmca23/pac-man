@@ -8,6 +8,7 @@ This HTML page features a Pac-Man animation moving horizontally within a contain
 # How to run the code:
 
 step1:Save the HTML file with .html extension.
+
 step2:Click the "Go Live" button.A new browser window will open, displaying Pacman animation.
 
 # Future Improvemennt:
